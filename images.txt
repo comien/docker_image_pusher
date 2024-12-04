@@ -1,3 +1,4 @@
 alpine:latest
 python:3.9
 python:3.9-slim
+node:18-alpine
