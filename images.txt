@@ -4,3 +4,4 @@ python:3.9-slim
 node:18-alpine
 node:22.11.0-bookworm-slim
 ubuntu:focal
+node:18
