@@ -6,3 +6,4 @@ node:22.11.0-bookworm-slim
 ubuntu:focal
 node:18
 node:bullseye
+zhayujie/chatgpt-on-wechat:latest
