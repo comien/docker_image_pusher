@@ -8,3 +8,5 @@ node:18
 node:bullseye
 zhayujie/chatgpt-on-wechat:latest
 python:3.9-slim-buster
+pgvector/pgvector:pg16
+redis:latest
