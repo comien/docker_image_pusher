@@ -7,3 +7,4 @@ ubuntu:focal
 node:18
 node:bullseye
 zhayujie/chatgpt-on-wechat:latest
+python:3.9-slim-buster
