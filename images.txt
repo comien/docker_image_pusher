@@ -10,3 +10,4 @@ zhayujie/chatgpt-on-wechat:latest
 python:3.11-slim-buster
 pgvector/pgvector:pg16
 redis:latest
+openjdk:17
