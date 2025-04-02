@@ -1,1 +1,2 @@
-alpine:3.16
+centos:7
+centos:8
