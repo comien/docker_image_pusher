@@ -1,2 +1,1 @@
-centos:7
-centos:8
+docker.io/rapiz1/rathole:latest
