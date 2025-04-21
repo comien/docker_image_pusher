@@ -1,1 +1,1 @@
-docker.io/rapiz1/rathole:latest
+python:3.12
