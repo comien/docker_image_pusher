@@ -1,1 +1,1 @@
-golang:1.23-alpine
+ghcr.io/astral-sh/uv:latest
