@@ -1,1 +1,1 @@
-python:3.13-slim
+eclipse-temurin:8-jdk
